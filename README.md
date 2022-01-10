@@ -34,12 +34,11 @@ In the formula that was used in cell B3 =COUNTIFS(Kickstarter!D:D, ">=1000",Kick
 The analysis of Kickstarter campaign outcomes based on the launch dates revealed that most of the successful campaigns are launched in late spring through the summer months. The highest number of successful campaigns were launched in the month of May, followed by June and July with the 2nd and 3rd highest number of successful campaigns respectively. December was the month that had the lowest number of successful campaigns. Conclusions drawn from the analysis are that campaigns tend to be more successful when they are launched between the months of May thorugh July. It is not advisable to launch a campaign in December which had the lowest number of successful campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
-- 
-When analyzing the outcomes of kickstarter campaigns based on funding goals the data tended to follow the general trend that as funding goals increased the percentage of successful campaigns decreased. 
+- When analyzing the outcomes of kickstarter campaigns based on funding goals the data tended to follow the general trend that as funding goals increased the percentage of successful campaigns decreased. 
 
 - What are some limitations of this dataset?
-A limitiation of the analysis is within the "Outcomes by Launch Date" data. This analysis could be made stronger by adding the percentage of successful campaigns based on launch date. For instance the highest month for successful launched campaigns was the month of May but that was also the month that had the highest total campaings were launched. Therefore the high number of successful campaigns could be due to the larger number of overall campaigns launched that month. Similarly December had the lowest number of successful campaigns but also had the lowest number of total campaigns launched.
-
+-A limitiation of the analysis is within the "Outcomes by Launch Date" data. This analysis could be made stronger by adding the percentage of successful campaigns based on launch date. For instance the highest month for successful launched campaigns was the month of May but that was also the month that had the highest total campaings were launched. Therefore the high number of successful campaigns could be due to the larger number of overall campaigns launched that month. Similarly December had the lowest number of successful campaigns but also had the lowest number of total campaigns launched.
 Adding the percentage to the analysis would give a clearer picture of the months with the highest probability of producing a successful campaign based on the total campaigns launched. 
 
 - What are some other possible tables and/or graphs that we could create?
+- In addition to the charts and analysis of the dataset that have already been completed, another analysis of the dataset could look at the funding goals of successful campaigns compared to the number of backers. The analysis would use the funding goal ranges used in the "Outcomes based on Goals" worksheet. We would find the average number of backers needed to acheive a successful campaign at each funding range. 
