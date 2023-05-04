@@ -6,7 +6,7 @@ This analysis of Kickstarter campaings is aimed at uncovering and communicating 
 The Kickstarter Analysis project provides insight into the outcomes of Kickstarter crowdfunding campaigns that were aimed at raising funds for theater projects. Our client Louise is a playwright who is planning to launch a new crowdfunding campaign and has asked for an analysis of campaign outcomes based on the launch date of the campaign and the goal amount. 
 
 ### Purpose
-The purpose of the project is to maximize Louise's probablity of success with launching her current theater crowdfunding camapign. This will be accomplished by analyzing during which months the most successful campaigns are launched. Additionally the analysis will include insight into the funding goal amounts that have been the most successful in the past. 
+The purpose of the project is to maximize Louise's probablity of success with launching her current theater crowdfunding camapign. This will be accomplished by analyzing the data to determine which months produce the most successful campaigns. Additionally the analysis will include insight into the funding goal amounts that have been the most successful in the past. 
 
 ## Analysis and Challenges
 
